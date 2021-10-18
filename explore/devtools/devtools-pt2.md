@@ -1,7 +1,7 @@
 # DevTools - Debugging
 
 ## Screenshot of the list of breakpoints containing the breakpoint.
-<img src="calculateSum.png" width="250px" />
+<img src="result-calculateSum.png" width="250px" />
 
 <br />
 
